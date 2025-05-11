@@ -1,6 +1,6 @@
 <!-- Заголовок та привітання -->
 <p align="center">
-  <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Vadym</h1>
+  <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Ostap</h1>
   <p>Backend-developer &amp; Minecraft plugin maker</p>
 </p>
 
