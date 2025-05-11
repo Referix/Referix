@@ -7,38 +7,30 @@
     Backend-developer &amp; Minecraft plugin maker
   </p>
   <!-- Анімація друку -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&lines[]=Java+%7C+Spring&lines[]=Minecraft+%7C+WebSocket&lines[]=Docker+%7C+Redis" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=500&lines=%7C+Spring+%7C+Minecraft+%7C+Docker" alt="Typing SVG" />
 
-<!-- Анімована хвиля-GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/4NJl2fU.gif" alt="wave divider" width="100%"/>
-</p>
+</div>
 
 ---
 
-<!-- GitHub Stats з кольоровим бекграундом -->
-<div align="center" style="background: #1f1f1f; padding: 20px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Referix&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=1f1f1f" alt="Ostap’s GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Referix&layout=compact&theme=dark&bg_color=1f1f1f" alt="Most Used Languages" width="45%"/>
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Referix&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=00000000" alt="Ostap’s GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Referix&layout=compact&theme=dark&bg_color=00000000" alt="Most Used Languages" width="45%"/>
 </div>
-
-<!-- Ще одна хвиля-GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/4NJl2fU.gif" alt="wave divider" width="100%"/>
-</p>
 
 ---
 
-<!-- Tech Stack із рухомим рядком -->
-<marquee behavior="scroll" direction="left" scrollamount="10" style="padding: 10px 0; background: #000; border-radius: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" style="margin:0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" style="margin:0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minecraft/minecraft-original.svg" width="48" style="margin:0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/websocket.svg" width="48" style="margin:0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" style="margin:0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" style="margin:0 15px;"/>
-</marquee>
+<!-- Tech Stack Icons із тінню -->
+<p align="center">
+  <!-- Java & Spring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  
+  <!-- Docker & Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+</p>
 
 ---
 
@@ -47,20 +39,18 @@
   <img src="https://activity-graph.vercel.app/graph?username=Referix&theme=react-dark&hide_border=true&area=true" alt="Ostap's Activity Graph" width="100%"/>
 </p>
 
+
 ---
 
-<!-- Контакти із анімованими бейджами -->
-<div align="center" style="background: #111; padding: 20px; border-radius: 10px;">
-  <a href="mailto:ostap.salo.2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glow" alt="Email"/>
-  </a>
-  <a href="https://t.me/Referixs">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&animation=glow" alt="Telegram"/>
-  </a>
+<!-- Контакти -->
+<div align="center">
+  <a href="mailto:ostap.salo.2017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/Referixs"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <!-- <a href="https://www.linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
 </div>
 
 ---
 
-<p align="center" style="font-style: italic; color: #666;">
-  I'm a simple guy from Ukraine who enjoys programming. I build backends, bots and Minecraft plugins that power fun and scalable gameplay.
+<p align="center">
+  <i>I'm a simple guy from Ukraine who enjoys programming. I build backends, bots and Minecraft plugins that power fun and scalable gameplay.</i>
 </p>
