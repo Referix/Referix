@@ -7,7 +7,7 @@
     Backend-developer &amp; Minecraft plugin maker
   </p>
   <!-- Анімація друку -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=500&lines=%7C+Spring+%7C+Minecraft+%7C+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=500&lines=%7C+Spring+%7C+Minecraft+%7C+Docker+%7C" alt="Typing SVG" />
 
 </div>
 
