@@ -8,7 +8,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Vadym’s GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Ostap’s GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark" alt="Most Used Languages" width="49%"/>
 </p>
 
@@ -21,11 +21,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
 
   <!-- Minecraft -->
-  <img src="https://raw.githubusercontent.com/TechsCode/TechsCode/master/assets/minecraft.svg" alt="Minecraft" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minecraft.svg" alt="Minecraft" width="40" height="40"/>
 
-  <!-- Database & WebSocket -->
+  <!-- Database, Caching & WebSocket -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" alt="WebSocket" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/websocket.svg" alt="WebSocket" width="40" height="40"/>
+
+  <!-- Containerization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
   <!-- IDEs & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
@@ -39,4 +43,3 @@
   I'm a simple guy from Ukraine who enjoys programming. <br/>
   I write almost anything that catches my interest, mainly website backends, various bots, and Minecraft plugins.
 </p>
-
