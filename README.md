@@ -8,8 +8,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Ostap’s GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark" alt="Most Used Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Referix&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Ostap’s GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Referix&layout=compact&theme=dark" alt="Most Used Languages" width="49%"/>
 </p>
 
 ---
