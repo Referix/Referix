@@ -35,8 +35,9 @@
 
 <!-- Активність за рік -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Referix&theme=react-dark&hide_border=true&area=true" alt="Ostap's Activity Graph" width="100%"/>
+  <img src="https://activity-graph.vercel.app/graph?username=Referix&theme=react-dark&hide_border=true&area=true" alt="Ostap's Activity Graph" width="100%"/>
 </p>
+
 
 ---
 
