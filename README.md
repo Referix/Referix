@@ -1,44 +1,61 @@
-<!-- Заголовок та привітання -->
-<p align="center">
-  <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Ostap</h1>
-  <p>Backend-developer &amp; Minecraft plugin maker</p>
-</p>
+<!-- Hero Banner із градієнтом та центруванням -->
+<div align="center" style="background: linear-gradient(135deg, #2a2a72 0%, #009ffd 100%); padding: 40px; border-radius: 15px;">
+  <h1 style="color: #fff; font-size: 3em; margin: 0;">
+    Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Ostap
+  </h1>
+  <p style="color: #e0e0e0; font-size: 1.25em; margin-top: 10px;">
+    Backend-developer &amp; Minecraft plugin maker
+  </p>
+  <!-- Анімація друку -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=500&lines=Java+%7C+Spring+%7C+Minecraft+%7C+WebSocket+%7C+Docker+%7C+Redis" alt="Typing SVG" />
+</div>
+
+<!-- Хвиля-переходик -->
+<br/>
+<img src="https://raw.githubusercontent.com/edgesp/curved-sections-in-readme/master/svgs/top.svg" width="100%"/>
 
 ---
 
 <!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Referix&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=00000000" alt="Ostap’s GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Referix&layout=compact&theme=dark&bg_color=00000000" alt="Most Used Languages" width="45%"/>
+</div>
+
+<!-- Хвиля-переходик вниз -->
+<br/>
+<img src="https://raw.githubusercontent.com/edgesp/curved-sections-in-readme/master/svgs/bottom.svg" width="100%"/>
+
+---
+
+<!-- Tech Stack Icons із тінню -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Referix&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Ostap’s GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Referix&layout=compact&theme=dark" alt="Most Used Languages" width="49%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minecraft.svg" alt="Minecraft" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" alt="WebSocket" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
 </p>
 
 ---
 
-<!-- Tech Stack Icons -->
+<!-- Активність за рік -->
 <p align="center">
-  <!-- Java & Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-
-  <!-- Minecraft -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minecraft.svg" alt="Minecraft" width="40" height="40"/>
-
-  <!-- Database, Caching & WebSocket -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-
-  <!-- Containerization -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-
-  <!-- IDEs & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Referix&theme=react-dark&hide_border=true&area=true" alt="Ostap's Activity Graph" width="100%"/>
 </p>
 
 ---
 
-<!-- Короткий опис -->
+<!-- Контакти -->
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/YourTelegram"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
+
+---
+
 <p align="center">
-  I'm a simple guy from Ukraine who enjoys programming. <br/>
-  I write almost anything that catches my interest, mainly website backends, various bots, and Minecraft plugins.
+  <i>I'm a simple guy from Ukraine who enjoys programming. I build backends, bots and Minecraft plugins that power fun and scalable gameplay.</i>
 </p>
