@@ -26,12 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
   
-  <!-- Minecraft -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minecraft/minecraft-original.svg" alt="Minecraft" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
-  
-  <!-- WebSocket -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/websocket.svg" alt="WebSocket" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
-  
   <!-- Docker & Redis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
@@ -48,9 +42,9 @@
 
 <!-- Контакти -->
 <div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/YourTelegram"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://www.linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ostap.salo.2017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/Referix"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <!-- <a href="https://www.linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
 </div>
 
 ---
