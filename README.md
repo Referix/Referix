@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=500&lines=Java+%7C+Spring+%7C+Minecraft+%7C+WebSocket+%7C+Docker+%7C+Redis" alt="Typing SVG" />
 </div>
 
-<!-- Хвиля-переходик -->
-<br/>
-<img src="https://raw.githubusercontent.com/edgesp/curved-sections-in-readme/master/svgs/top.svg" width="100%"/>
-
 ---
 
 <!-- GitHub Stats -->
@@ -22,18 +18,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Referix&layout=compact&theme=dark&bg_color=00000000" alt="Most Used Languages" width="45%"/>
 </div>
 
-<!-- Хвиля-переходик вниз -->
-<br/>
-<img src="https://raw.githubusercontent.com/edgesp/curved-sections-in-readme/master/svgs/bottom.svg" width="100%"/>
-
 ---
 
 <!-- Tech Stack Icons із тінню -->
 <p align="center">
+  <!-- Java & Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minecraft.svg" alt="Minecraft" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" alt="WebSocket" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  
+  <!-- Minecraft -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minecraft/minecraft-original.svg" alt="Minecraft" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  
+  <!-- WebSocket -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/websocket.svg" alt="WebSocket" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
+  
+  <!-- Docker & Redis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" style="margin:5px; filter: drop-shadow(2px 2px 2px #000)"/>
 </p>
