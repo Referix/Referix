@@ -8,15 +8,10 @@
   </p>
   <!-- Анімація друку -->
 <img
-  src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code
-    &size=24
-    &pause=1000
-    &color=FFFFFF
-    &width=600
-    &lines=Java+%7C+Spring+%7C+Minecraft+%7C+WebSocket+%7C+Docker+%7C+Redis"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&lines[]=Java+%7C+Spring&lines[]=Minecraft+%7C+WebSocket&lines[]=Docker+%7C+Redis"
   alt="Typing SVG"
 />
+
 </div>
 
 ---
